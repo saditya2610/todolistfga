@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Pembuatan to do list dengan React
+Saya Buat berdasarkan pelatihan DTS 2022
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
